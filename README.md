@@ -1,2 +1,5 @@
-# Chat-App
-This project is a real-time 1:1 chat application built using React Native for the frontend and Node.js (Express + Socket.IO) for the backend. It enables users to register, log in securely, and chat instantly with others, with all messages stored in MongoDB for persistence.
+# Mobile (Expo) - Minimal
+
+1. `cd mobile && npm install`
+2. `expo start`
+3. The default SERVER_URL in .env.example is http://10.0.2.2:4000 (Android emulator). Update if needed.
